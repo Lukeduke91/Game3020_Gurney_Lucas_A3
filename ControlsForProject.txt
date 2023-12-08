@@ -1,0 +1,6 @@
+WASD: For Movement
+E: for dashing
+Left Shift: Stomping
+Space: Jumping
+Mouse: Looking around
+Left Mouse Button: Shooting

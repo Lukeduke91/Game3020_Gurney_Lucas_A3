@@ -1,0 +1,5 @@
+In this build, you'll find that enemies can hunt down the player.
+Some will stay in place and shoot towards the player.
+There is a HUD where there is a goal to reach and a control layout for the player.
+In that list of controls, the player can dash, jump, shoot, Make a charged jump, and stomp towards the ground with some special effects.
+Other than that, everything is the same, just added more enemy AI and added some movement options for the player.

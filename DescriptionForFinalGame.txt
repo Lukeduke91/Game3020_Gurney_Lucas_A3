@@ -1,0 +1,1 @@
+For the final product, I was only able to redesign the level with a new level design. I also brought in some new character models for the enemy. the player now has a gun that they shoot their bullets out of. There is now a level selection screen for the players to go and look at the controls and exit the game or start the main game.
